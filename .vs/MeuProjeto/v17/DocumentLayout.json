@@ -7,24 +7,20 @@
       "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\stepdefinitions\\loginpagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|c:\\users\\campanhk\\source\\repos\\meuprojeto\\meuprojeto\\stepdefinitions\\featureemqueousuariofazumapesquisanolinkedinstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\stepdefinitions\\featureemqueousuariofazumapesquisanolinkedinstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|c:\\users\\campanhk\\source\\repos\\meuprojeto\\meuprojeto\\pageobjects\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\pageobjects\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|c:\\users\\campanhk\\source\\repos\\meuprojeto\\meuprojeto\\pageobjects\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\pageobjects\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|c:\\users\\campanhk\\source\\repos\\meuprojeto\\meuprojeto\\pageobjects\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\pageobjects\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|c:\\users\\campanhk\\source\\repos\\meuprojeto\\meuprojeto\\features\\loginpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\features\\loginpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|c:\\users\\campanhk\\source\\repos\\meuprojeto\\meuprojeto\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|c:\\users\\campanhk\\source\\repos\\meuprojeto\\meuprojeto\\features\\search.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\features\\search.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|c:\\users\\campanhk\\source\\repos\\meuprojeto\\meuprojeto\\features\\loginpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B230D15F-CB22-4F2F-A198-AEC7315037B6}|MeuProjeto\\MeuProjeto.csproj|solutionrelative:meuprojeto\\features\\loginpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseObject.cs",
+              "DocumentMoniker": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\BaseObject.cs",
+              "RelativeDocumentMoniker": "MeuProjeto\\PageObjects\\BaseObject.cs",
+              "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\BaseObject.cs",
+              "RelativeToolTip": "MeuProjeto\\PageObjects\\BaseObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:28:59.483Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -44,48 +53,22 @@
               "RelativeDocumentMoniker": "MeuProjeto\\Features\\LoginPage.feature",
               "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\Features\\LoginPage.feature",
               "RelativeToolTip": "MeuProjeto\\Features\\LoginPage.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-30T13:57:58.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SearchPage.cs",
-              "DocumentMoniker": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\SearchPage.cs",
-              "RelativeDocumentMoniker": "MeuProjeto\\PageObjects\\SearchPage.cs",
-              "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\SearchPage.cs",
-              "RelativeToolTip": "MeuProjeto\\PageObjects\\SearchPage.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:48:24.091Z",
+              "WhenOpened": "2024-10-01T12:19:40.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FeatureEmQueOUsuarioFazUmaPesquisaNoLinkedinStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\StepDefinitions\\FeatureEmQueOUsuarioFazUmaPesquisaNoLinkedinStepDefinitions.cs",
-              "RelativeDocumentMoniker": "MeuProjeto\\StepDefinitions\\FeatureEmQueOUsuarioFazUmaPesquisaNoLinkedinStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\StepDefinitions\\FeatureEmQueOUsuarioFazUmaPesquisaNoLinkedinStepDefinitions.cs",
-              "RelativeToolTip": "MeuProjeto\\StepDefinitions\\FeatureEmQueOUsuarioFazUmaPesquisaNoLinkedinStepDefinitions.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Title": "WebDriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\WebDriverFactory.cs",
+              "RelativeDocumentMoniker": "MeuProjeto\\PageObjects\\WebDriverFactory.cs",
+              "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\WebDriverFactory.cs",
+              "RelativeToolTip": "MeuProjeto\\PageObjects\\WebDriverFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T22:06:06.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseObject.cs",
-              "DocumentMoniker": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\BaseObject.cs",
-              "RelativeDocumentMoniker": "MeuProjeto\\PageObjects\\BaseObject.cs",
-              "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\BaseObject.cs",
-              "RelativeToolTip": "MeuProjeto\\PageObjects\\BaseObject.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAADwvyAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T19:54:22.075Z",
+              "WhenOpened": "2024-10-01T11:42:48.572Z",
               "EditorCaption": ""
             },
             {
@@ -96,22 +79,22 @@
               "RelativeDocumentMoniker": "MeuProjeto\\StepDefinitions\\LoginPageStepDefinitions.cs",
               "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\StepDefinitions\\LoginPageStepDefinitions.cs",
               "RelativeToolTip": "MeuProjeto\\StepDefinitions\\LoginPageStepDefinitions.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T22:16:11.909Z",
+              "WhenOpened": "2024-10-01T11:26:09.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Search.feature",
-              "DocumentMoniker": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\Features\\Search.feature",
-              "RelativeDocumentMoniker": "MeuProjeto\\Features\\Search.feature",
-              "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\Features\\Search.feature",
-              "RelativeToolTip": "MeuProjeto\\Features\\Search.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-29T22:04:31.337Z",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "MeuProjeto\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\CampanhK\\source\\repos\\MeuProjeto\\MeuProjeto\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "MeuProjeto\\PageObjects\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:18:42.001Z",
               "EditorCaption": ""
             }
           ]
